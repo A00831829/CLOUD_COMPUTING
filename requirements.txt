@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+kagglehub
+seaborn
+jupyter
+ipykernel
+azureml-core
+azureml-defaults
